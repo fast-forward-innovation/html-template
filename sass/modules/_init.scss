@@ -1,14 +1,8 @@
 // Compass configuration
-$legacy-support-for-ie6: false;
-$legacy-support-for-ie7: true;
-$legacy-support-for-ie8: true;
-$experimental-support-for-svg: true;
-
 @import "compass";
 @import "compass/css3/border-radius";
 @import "compass/css3/images";
 @import "compass/css3/opacity";
-@import "compass/css3/shared";
 @import "compass/css3/transform";
 @import "compass/css3/transition";
 @import "compass/css3/user-interface";
